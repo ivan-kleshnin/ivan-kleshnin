@@ -1,6 +1,4 @@
-## Hi there! My name is Ivan Kleshnin
-
-### About me
+### Hi there! My name is Ivan Kleshnin
 
 I’m a software engineer, mentor, and blogger doing web development since 2007.
 Currently focused on running my own educational platform [Paqmind.com](https://paqmind.com).
