@@ -56,8 +56,6 @@ Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJ
 --- 
 
 <img alt="Ivan Kleshnin’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ivan-kleshnin&show_icons=true&hide-border=true"/>
-
-<img alt="Paqmind’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Paqmind&show_icons=true&hide-border=true"/>
  
 ### Contacts
 
