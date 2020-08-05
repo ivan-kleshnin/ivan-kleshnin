@@ -34,9 +34,6 @@ Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJ
 
 ### Contacts
 
-Occasionally open for mentorship, consulting, and freelance opportunities.<br/>
-Drop me a PM, if you think I can be useful.
-
 [<img align="left" alt="Paqmind.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][info@paqmind]
 [<img align="left" alt="Paqmind | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paqmind]
 [<img align="left" alt="Paqmind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -44,6 +41,9 @@ Drop me a PM, if you think I can be useful.
 [<img align="left" alt="Paqmind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br/>
+
+I’m occasionally open for mentorship, consulting, and freelance opportunities.<br/>
+Drop me a PM, if you think I can be useful.
 
 ### Random Achievements
 
