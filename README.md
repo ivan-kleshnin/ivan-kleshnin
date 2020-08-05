@@ -11,6 +11,10 @@ I also know a thing a two about web design and development.
 As a mentor, I prefer to give knowledge that will remain relevant over the years. 
 Some of my former students work at Yandex, Sberbank, Alfa bank, Epam, Toptal, etc.
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ### Tech Stack
 
 Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJS, NodeJS, PostgreSQL, React
