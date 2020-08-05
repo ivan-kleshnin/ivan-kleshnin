@@ -47,7 +47,7 @@ Drop me a PM, if you think I can be useful or something.
 
 ### Random Achievements
 
-- [JavaScript TOP 10 in Warsaw]((http://git-awards.com/users/search?login=ivan-kleshnin)
+- [JavaScript TOP 10](http://git-awards.com/users/search?login=ivan-kleshnin) in Warsaw/Poland
 - Consulted enterprise-grade teams at PowerToFly, Epic Games, Toptal, etc.
 - Performed technical reviews for Packt Publishing.
 - Author of 250+ programming and dev. exercises at Paqmind.com.
@@ -59,7 +59,7 @@ Drop me a PM, if you think I can be useful or something.
 - Open sourced a number of libraries in JavaScript and Python.
 - Authored a few frameworks and CMS’.
  
-[info@paqmind]: info@paqmind.com
+[info@paqmind]: mailto:info@paqmind.com
 [paqmind]: https://paqmind.com
 [youtube]: https://youtube.com/c/ivan-kleshnin
 [linkedin]: https://linkedin.com/in/ivan-kleshnin
