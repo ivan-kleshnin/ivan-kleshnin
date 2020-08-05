@@ -17,18 +17,18 @@ Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJ
 
 ### 2020 goals
 
-- 🔮 Make [Paqmind.com](https://paqmind.com) more performant and polished
-- ⚡ Master GitHub actions
-- 🦋 Learn TypeScript better 
-- 👯 Collaborate with some other content creators
-- 📷 Finally publish my travel photos
+- 🔮 - Make [Paqmind.com](https://paqmind.com) more performant and polished
+- ⚡ - Master GitHub actions
+- 🦋 - Learn TypeScript better 
+- 👯 - Collaborate with some other content creators
+- 📷 - Finally publish my travel photos
  
 ### 2021 goals 
 
-- 💎 Practice ELM language
-- 🎮 Make a multiplayer game 
-– 🌍 Record more english videos
-- 🥅 Release a few Open Source libraries
+- 💎 - Practice ELM language
+- 🎮 - Make a multiplayer game 
+– 🌍 - Record more english videos
+- 🥅 - Release a few Open Source libraries
 
 ### Random Achievements
 
