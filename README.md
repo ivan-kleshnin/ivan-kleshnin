@@ -34,8 +34,8 @@ Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJ
 
 ### Contacts
 
-Occasionally open for mentorship, consulting, and freelance opportunities. 
-Drop me a PM, if you think I can be useful or something.
+Occasionally open for mentorship, consulting, and freelance opportunities.<br/>
+Drop me a PM, if you think I can be useful.
 
 [<img align="left" alt="Paqmind.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][info@paqmind]
 [<img align="left" alt="Paqmind | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paqmind]
