@@ -47,6 +47,12 @@ Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJ
 - Contributed to popular libraries like CycleJS, Nunjucks, Parsimmon, etc.
 - Open sourced a number of libraries in JavaScript and Python.
 - Authored a few frameworks and CMS’.
+
+--- 
+
+<img alt="Ivan Kleshnin’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ivan-kleshnin&show_icons=true&hide-border=true"/>
+
+<img alt="Paqmind’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Paqmind&show_icons=true&hide-border=true"/>
  
 ### Contacts
 
