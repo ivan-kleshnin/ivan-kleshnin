@@ -1,6 +1,6 @@
 ## Hi there! My name is Ivan Kleshnin
 
-## About Me
+### About me
 
 I’m a software engineer, mentor, and blogger doing web development since 2007.
 Currently focused on running my own educational platform [Paqmind.com](https://paqmind.com).
@@ -13,11 +13,11 @@ I also know a thing a two about web design and development.
 As a mentor, I prefer to give knowledge that will remain relevant over the years. 
 Some of my former students work at Yandex, Sberbank, Alfa bank, Epam, Toptal, etc.
 
-#### Tech Stack
+### Tech Stack
 
 Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJS, NodeJS, PostgreSQL, React
 
-#### 2020 goals
+### 2020 goals
 
 - 🔮 Make [Paqmind.com](https://paqmind.com) more performant and polished
 - ⚡ Master GitHub actions
@@ -25,14 +25,14 @@ Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJ
 - 👯 Collaborate with some other content creators
 - 📷 Finally publish my travel photos
  
-#### 2021 goals 
+### 2021 goals 
 
 - 💎 Practice ELM language
 - 🎮 Make a multiplayer game 
 – 🌍 Record more english videos
 - 🥅 Release a few Open Source libraries
 
-## Contacts
+### Contacts
 
 Occasionally open for mentorship, consulting, and freelance opportunities. 
 Drop me a PM, if you think I can be useful or something.
@@ -43,7 +43,9 @@ Drop me a PM, if you think I can be useful or something.
 [<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Paqmind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-#### Random Achievements
+<br/>
+
+### Random Achievements
 
 - [JavaScript TOP 10 in Warsaw]((http://git-awards.com/users/search?login=ivan-kleshnin)
 - Consulted enterprise-grade teams at PowerToFly, Epic Games, Toptal, etc.
