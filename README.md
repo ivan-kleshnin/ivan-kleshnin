@@ -32,19 +32,6 @@ Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJ
 – 🌍 Record more english videos
 - 🥅 Release a few Open Source libraries
 
-### Contacts
-
-[<img align="left" alt="Paqmind.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][info@paqmind]
-[<img align="left" alt="Paqmind | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paqmind]
-[<img align="left" alt="Paqmind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Paqmind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br/>
-
-I’m occasionally open for mentorship, consulting, and freelance opportunities.<br/>
-Drop me a PM, if you think I can be useful.
-
 ### Random Achievements
 
 - [JavaScript TOP 10](http://git-awards.com/users/search?login=ivan-kleshnin) in Warsaw/Poland
@@ -59,6 +46,17 @@ Drop me a PM, if you think I can be useful.
 - Open sourced a number of libraries in JavaScript and Python.
 - Authored a few frameworks and CMS’.
  
+### Contacts
+
+I’m occasionally open for mentorship, consulting, and freelance opportunities.<br/>
+Drop me a PM, if you think I can be useful.
+
+[<img align="left" alt="Paqmind.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][info@paqmind]
+[<img align="left" alt="Paqmind | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paqmind]
+[<img align="left" alt="Paqmind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Paqmind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [info@paqmind]: mailto:info@paqmind.com
 [paqmind]: https://paqmind.com
 [youtube]: https://youtube.com/c/ivan-kleshnin
