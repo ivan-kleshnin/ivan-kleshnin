@@ -13,11 +13,11 @@ Some of my former students work at Yandex, Sberbank, Alfa bank, Epam, Toptal, et
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Тришейкинг квалифицированных импортов и структура проекта](https://www.youtube.com/watch?v=Xt3Y0H9Tk9g)
 - [Изображения в формате WEBP](https://www.youtube.com/watch?v=oQzKOuYQsEo)
 - [ZOD: second look to a potential YUP's rival](https://www.youtube.com/watch?v=iJ6oP8Zttu8)
 - [Оптимизация отображения шрифтов на сайте](https://www.youtube.com/watch?v=NBMDuM5APvI)
 - [Оптимизация загрузки шрифтов на сайте](https://www.youtube.com/watch?v=jatrZfQnm2w)
-- [Вариативные шрифты](https://www.youtube.com/watch?v=FoBq0ePgjkI)
 <!-- YOUTUBE:END -->
 
 ### Tech Stack
