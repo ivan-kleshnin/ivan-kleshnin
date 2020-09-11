@@ -13,11 +13,11 @@ Some of my former students work at Yandex, Sberbank, Alfa bank, Epam, Toptal, et
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Next.JS 9.4–9.5: обзор изменений и новых фич. Эволюционный рост.](https://www.youtube.com/watch?v=g-mpdMhdzb0)
+- [AWS vs Digital Ocean: вендоры управляемых баз данных](https://www.youtube.com/watch?v=4vz3m2YZzCw)
+- [NextJS 9.4–9.5: обзор изменений и новых фич. Эволюционный рост.](https://www.youtube.com/watch?v=g-mpdMhdzb0)
 - [Регионы Vercel и AWS. Туториал по определению и выбору региона для хостинга.](https://www.youtube.com/watch?v=VyuuWiB26WQ)
 - [Менеджмент и хостинг статических файлов. Требования к фичам системы.](https://www.youtube.com/watch?v=gcz1lpv_wT4)
 - [Тришейкинг квалифицированных импортов и структура проекта](https://www.youtube.com/watch?v=Xt3Y0H9Tk9g)
-- [Изображения в формате WEBP](https://www.youtube.com/watch?v=oQzKOuYQsEo)
 <!-- YOUTUBE:END -->
 
 ### Tech Stack
