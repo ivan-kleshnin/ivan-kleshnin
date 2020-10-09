@@ -13,11 +13,11 @@ Some of my former students work at Yandex, Sberbank, Alfa bank, Epam, Toptal, et
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Remote.com и новости удалённой работы](https://www.youtube.com/watch?v=scrxJGxEgNY)
 - [React Tutorial: рефакторинг с CSS на Styled-JSX на примере Memory Game](https://www.youtube.com/watch?v=6Wpuc2HvAoE)
 - [React Tutorial: архитектура игрового приложения на примере Memory Game](https://www.youtube.com/watch?v=ilXa3QB6bFs)
 - [Уровни компетенции инженера. Как определить свой уровень?](https://www.youtube.com/watch?v=xJqGsztKXm0)
 - [AWS vs Digital Ocean: вендоры управляемых баз данных](https://www.youtube.com/watch?v=4vz3m2YZzCw)
-- [NextJS 9.4–9.5: обзор изменений и новых фич. Эволюционный рост.](https://www.youtube.com/watch?v=g-mpdMhdzb0)
 <!-- YOUTUBE:END -->
 
 ### Tech Stack
