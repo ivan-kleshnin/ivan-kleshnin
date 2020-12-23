@@ -17,7 +17,7 @@ Some of my former students work at Yandex, Sberbank, Alfa bank, Epam, Toptal, et
 - [React Tutorial: из JavaScript в TypeScript на примере Memory Game](https://www.youtube.com/watch?v=l0PrLtlZkQo)
 - [Remote.com и новости удалённой работы](https://www.youtube.com/watch?v=scrxJGxEgNY)
 - [React Tutorial: рефакторинг с CSS на Styled-JSX на примере Memory Game](https://www.youtube.com/watch?v=6Wpuc2HvAoE)
-- [React Tutorial: архитектура игрового приложения на примере Memory Game](https://www.youtube.com/watch?v=ilXa3QB6bFs)
+- [React Tutorial: игра на React и TypeScript с нуля](https://www.youtube.com/watch?v=ilXa3QB6bFs)
 <!-- YOUTUBE:END -->
 
 ### Tech Stack
