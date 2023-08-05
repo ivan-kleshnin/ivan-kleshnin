@@ -1,47 +1,23 @@
 ### Hi there! My name is Ivan Kleshnin
 
-I’m a software engineer, mentor, and blogger doing web development since 2007.
-Currently focused on running my own educational platform [Paqmind.com](https://paqmind.com).
-Occasionally open for mentorship, consulting, and freelance opportunities. 
+Software engineer, mentor, blogger, entrepreneur. I'm doing web development professionally since 2007.
+Currently busy with my own HR-related project. No public links so far. Occasionally open for mentorship opportunities.
 
-My professional interests are quite broad and include software architecture, functional programming, 
-type systems – to name just a few. My working preferences are minimalism and 改善 (kaidzen, continuous improvement).
-I also know a thing a two about web design and development.
+My professional interests include: 
+- 🕸️ fullstack web dev
+- 🔥 software architecture
+- 🔮 functional and reactive programming
+- 🧩 static type systems
 
-As a mentor, I prefer to give knowledge that will remain relevant over the years. 
-Some of my former students work at Yandex, Sberbank, Alfa bank, Epam, Toptal, etc.
+My working preferences are minimalism and 改善 (kaidzen, continuous improvement). I also know a thing or two about UI/UX.
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [React: мемоизация элементов форм](https://www.youtube.com/watch?v=phdxkmlDHkw)
-- [Функции camelize / snakify – применяем продвинутые регулярки](https://www.youtube.com/watch?v=DZXvcanJVgw)
-- [Rescript vs TypeScript – ребрендинг ReasonML](https://www.youtube.com/watch?v=CqK9gi-0qzM)
-- [Переход с Knex на Node-Postgres. Упрощение стека.](https://www.youtube.com/watch?v=DN2AA5dsoOw)
-- [React Tutorial: из JavaScript в TypeScript на примере Memory Game](https://www.youtube.com/watch?v=l0PrLtlZkQo)
-<!-- YOUTUBE:END -->
+### Favorite Technologies
 
-### Tech Stack
-
-Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJS, NodeJS, PostgreSQL, React
-
-### 2020 goals
-
-- 🔮 - Make [Paqmind.com](https://paqmind.com) more performant and polished
-- ⚡ - Master GitHub actions
-- 🦋 - Learn TypeScript better 
-- 👯 - Collaborate with some other content creators
-- 📷 - Finally publish my travel photos
- 
-### 2021 goals 
-
-- 💎 - Practice ELM language
-- 🎮 - Make a multiplayer game 
-– 🌍 - Record more english videos
-- 🥅 - Release a few Open Source libraries
+CSS, Neo4j, NextJS, PostgreSQL, React, Redis, RxJS, TailwindCSS, TypeScript
 
 ### Random Achievements
 
-- [JavaScript TOP 10](http://git-awards.com/users/search?login=ivan-kleshnin) in Warsaw/Poland
+- Was in "JS TOP 10" in Warsaw, Poland by Git-Awards
 - Consulted enterprise-grade teams at PowerToFly, Epic Games, Toptal, etc.
 - Performed technical reviews for Packt Publishing.
 - Author of 250+ programming and dev. exercises at Paqmind.com.
@@ -59,8 +35,7 @@ Apollo-Client, Apollo-Server, CSS, Git, GitHub, GraphQL, HTML, JavaScript, NextJ
  
 ### Contacts
 
-I’m occasionally open for mentorship, consulting, and freelance opportunities.<br/>
-Drop me a PM, if you think I can be useful.
+I’m occasionally open for mentorship opportunities. Drop me a PM, if you're interested in FP vs OOP, advanced TypeScript and/or web app architecture. As a mentor, I prefer to give knowledge that will remain relevant over the years. Many of my former students have been working at Yandex, Sberbank, Alfa bank, Epam, Toptal, etc.
 
 [<img align="left" alt="Paqmind.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][info@paqmind]
 [<img align="left" alt="Paqmind | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paqmind]
