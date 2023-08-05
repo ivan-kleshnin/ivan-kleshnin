@@ -17,7 +17,7 @@ CSS, Neo4j, NextJS, PostgreSQL, React, Redis, RxJS, TailwindCSS, TypeScript
 
 ### Random Achievements
 
-- Was in "JS TOP 10" in Warsaw, Poland (2001–2003) by Git-Awards (now closed)
+- Was in "JS TOP 10" in Warsaw, Poland (2019–2022) by Git-Awards (now closed)
 - Consulted enterprise-grade teams at PowerToFly, Epic Games, Toptal, etc.
 - Performed technical reviews for Packt Publishing.
 - Author of 250+ programming and dev. exercises at Paqmind.com.
