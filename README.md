@@ -43,7 +43,7 @@ I’m occasionally open for mentorship opportunities. Drop me a PM, if you're in
 [<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Paqmind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[info@paqmind]: mailto:info@paqmind.com
+[ivan@paqmind]: mailto:ivan@paqmind.com
 [paqmind]: https://paqmind.com
 [youtube]: https://youtube.com/c/ivan-kleshnin
 [linkedin]: https://linkedin.com/in/ivan-kleshnin
