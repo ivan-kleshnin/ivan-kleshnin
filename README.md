@@ -37,13 +37,14 @@ CSS, Neo4j, NextJS, PostgreSQL, React, Redis, RxJS, TailwindCSS, TypeScript
 
 I’m occasionally open for mentorship opportunities. Drop me a PM, if you're interested in FP vs OOP, advanced TypeScript and/or web app architecture. As a mentor, I prefer to give knowledge that will remain relevant over the years. Many of my former students have been working at Yandex, Sberbank, Alfa bank, Epam, Toptal, etc.
 
-[<img align="left" alt="Paqmind.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][info@paqmind]
+[<img align="left" alt="Paqmind.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="Paqmind | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paqmind]
 [<img align="left" alt="Paqmind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Paqmind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[ivan@paqmind]: mailto:ivan@paqmind.com
+[email]: mailto:ivan@paqmind.com
+
 [paqmind]: https://paqmind.com
 [youtube]: https://youtube.com/c/ivan-kleshnin
 [linkedin]: https://linkedin.com/in/ivan-kleshnin
