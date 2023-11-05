@@ -1,7 +1,6 @@
-### Hi there! My name is Ivan Kleshnin
+## About Me
 
-Software engineer, mentor, blogger, entrepreneur. I'm doing web development professionally since 2007.
-Currently busy with my own HR-related project. No public links so far. Occasionally open for mentorship opportunities.
+Experienced software engineer, entrepreneur. Cofounder of [DevScanr.com](https://devscanr.com) and [Paqmind.com](https://paqmind.com). Not interested in job opportunities.
 
 My professional interests include: 
 - 🕸️ fullstack web dev
@@ -33,19 +32,3 @@ CSS, Neo4j, NextJS, PostgreSQL, React, Redis, RxJS, TailwindCSS, TypeScript
 
 <img alt="Ivan Kleshnin’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ivan-kleshnin&show_icons=true&hide-border=true"/>
  
-### Contacts
-
-I’m occasionally open for mentorship opportunities. Drop me a PM, if you're interested in FP vs OOP, advanced TypeScript and/or web app architecture. As a mentor, I prefer to give knowledge that will remain relevant over the years. Many of my former students have been working at Yandex, Sberbank, Alfa bank, Epam, Toptal, etc.
-
-[<img align="left" alt="Paqmind.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
-[<img align="left" alt="Paqmind | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paqmind]
-[<img align="left" alt="Paqmind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Paqmind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[email]: mailto:ivan@paqmind.com
-
-[paqmind]: https://paqmind.com
-[youtube]: https://youtube.com/c/ivan-kleshnin
-[linkedin]: https://linkedin.com/in/ivan-kleshnin
-[twitter]: https://twitter.com/ivankleshnin
