@@ -3,7 +3,7 @@
 Experienced software engineer, entrepreneur, polymath. Cofounder of [DevScanr.com](https://devscanr.com) and [Paqmind.com](https://paqmind.com). 
 
 My professional interests include: 
-– 🎓 Computer Science and Data Science
+- 🎓 Computer Science and Data Science
 - 🕸️ Web Development
 - 🏗️ System and Software Architecture
 - 🔮 Functional and Reactive Programming
