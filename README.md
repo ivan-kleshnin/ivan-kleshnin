@@ -12,7 +12,3 @@ My professional interests include:
 
 My working preferences are minimalism and 改善 (kaidzen, continuous improvement). 
 
---- 
-
-<img alt="Ivan Kleshnin’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ivan-kleshnin&show_icons=true&hide-border=true"/>
- 
