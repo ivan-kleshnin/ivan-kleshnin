@@ -3,12 +3,17 @@
 Experienced software engineer, entrepreneur, polymath. Cofounder of [DevScanr.com](https://devscanr.com) and [Paqmind.com](https://paqmind.com). 
 
 My professional interests include: 
-- 🎓 Engineering & Data Science
-- 🕸️ Web Development
-- 🏗️ System and Software Architecture
-- 🔮 Functional Programming
-- 🧩 Static Types
+- 🎓 Software engineering
+- 🎓 Data science
+- 🕸️ Web development
+- 🏗️ System and software architecture
+- 🧩 Functional programming and static types
+
+Besides engineering I'm somewhat competent in:
 - 🔘 UI/UX
+- 🖼️ Visual design and typography
 
 My working preferences are minimalism and 改善 (kaidzen, continuous improvement). 
+
+Feel free to reach me out with any question considering that I won't answer fast – checking my email once a week or so these days.
 
