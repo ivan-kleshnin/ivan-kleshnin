@@ -15,5 +15,5 @@ Besides engineering I'm somewhat competent in:
 
 My working preferences are minimalism and 改善 (kaidzen, continuous improvement). 
 
-Feel free to reach me out with any question considering that I won't answer fast – checking my email once a week or so these days.
+Feel free to reach me out with any question, but please keep in mind that I check my email box once a week or so.
 
