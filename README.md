@@ -7,9 +7,8 @@ Professional interests include:
 - Software engineering, Systems architecture
 - Functional programming, static type systems
 
-Besides engineering I'm hobbyist-level competent in:
-- UI/UX
-- Visual design and typography
+Besides engineering and data science I'm somewhat competent in:
+- UI/UX, Visual design and typography
 
 My working preferences are minimalism and 改善 (kaidzen, continuous improvement). 
 
