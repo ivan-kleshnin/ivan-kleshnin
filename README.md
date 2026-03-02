@@ -12,5 +12,5 @@ Besides engineering and data science I'm somewhat competent in:
 
 My working preferences are minimalism and 改善 (kaidzen, continuous improvement). 
 
-Feel free to reach me out with any question at ivan@paqmind.com.
+Reach me with questions, ideas, and proposals at @ivankleshnin (Telegram).
 
