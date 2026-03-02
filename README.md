@@ -28,6 +28,8 @@ Reach me with questions, ideas, and proposals at @ivankleshnin (Telegram).
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal)
+![SciKitLearn](https://img.shields.io/badge/SciKitLearn-orange)
+![Pandas](https://img.shields.io/badge/Pandas-violet)
 ![SpaCy](https://img.shields.io/badge/SpaCy-cyan)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
