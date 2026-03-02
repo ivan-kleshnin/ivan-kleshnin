@@ -1,17 +1,15 @@
 ## About Me
 
-Seasoned software and AI/ML engineer, polymath. 
+Seasoned software engineer interested in ML/AI. Polymath. 
 
-My professional interests include: 
-- 🎓 Software engineering
-- 🎓 Data science
-- 🕸️ Web development
-- 🏗️ System and software architecture
-- 🧩 Functional programming and static types
+Professional interests include: 
+- Data science, Machine learning, NLP
+- Software engineering, Systems architecture
+- Functional programming, static type systems
 
-Besides engineering I'm somewhat competent in:
-- 🔘 UI/UX
-- 🖼️ Visual design and typography
+Besides engineering I'm hobbyist-level competent in:
+- UI/UX
+- Visual design and typography
 
 My working preferences are minimalism and 改善 (kaidzen, continuous improvement). 
 
