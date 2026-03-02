@@ -1,6 +1,6 @@
 ## About Me
 
-Experienced software engineer, entrepreneur, polymath. Cofounder of [DevScanr.com](https://devscanr.com) and [Paqmind.com](https://paqmind.com). 
+Seasoned software and AI/ML engineer, polymath. 
 
 My professional interests include: 
 - 🎓 Software engineering
