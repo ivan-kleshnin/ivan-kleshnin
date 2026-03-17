@@ -1,6 +1,6 @@
 ## About Me
 
-Seasoned software engineer interested in ML/AI. Polymath. 
+Seasoned software engineer and architect. Also proficient in ML/AI. Polymath. 
 
 Professional interests include: 
 - Data science, Machine learning, NLP
